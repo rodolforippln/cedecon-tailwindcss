@@ -15,7 +15,7 @@ export default function Section07() {
 
         <div className='grid grid-cols-1 md:grid-cols-4 mx-8 md:mx-16 mt-6 gap-4'>
             
-            <div className='flex flex-col rounded-md shadow-lg justify-between'>
+            <div className='flex flex-col rounded-md shadow-lg justify-between transform hover:scale-100 duration-200 hover:-translate-y-1 cursor-pointer'>
                 <Image
                     width={580}
                     height={330}
@@ -28,7 +28,7 @@ export default function Section07() {
 
             </div>
             
-            <div className='flex flex-col rounded-md shadow-lg justify-between'>
+            <div className='flex flex-col rounded-md shadow-lg justify-between transform hover:scale-100 duration-200 hover:-translate-y-1 cursor-pointer'>
                 <Image
                     width={580}
                     height={330}
@@ -41,7 +41,7 @@ export default function Section07() {
 
             </div>
             
-            <div className='flex flex-col rounded-md shadow-lg justify-between'>
+            <div className='flex flex-col rounded-md shadow-lg justify-between transform hover:scale-100 duration-200 hover:-translate-y-1 cursor-pointer'>
                 <Image
                     width={580}
                     height={330}
@@ -54,7 +54,7 @@ export default function Section07() {
 
             </div>
             
-            <div className='flex flex-col rounded-md shadow-lg justify-between'>
+            <div className='flex flex-col rounded-md shadow-lg justify-between transform hover:scale-100 duration-200 hover:-translate-y-1 cursor-pointer'>
                 <Image
                     width={580}
                     height={330}
@@ -72,7 +72,7 @@ export default function Section07() {
     </div>
     <div className='flex flex-col mx-auto mt-12 mb-8 w-full'>
 
-        <div className='flex md:w-64 mx-auto'>
+        <div className='flex md:w-64 mx-auto transform hover:scale-100 duration-200 hover:-translate-y-1 cursor-pointer'>
             <Link href='#'>
                 <a className='text-2xl flex justify-center items-center rounded-full border border-solid border-gray-100 text-gray-900 px-4 py-2 hover:text-blue-600'>
                 <p className='text-sm font-bold hover:text-blue-600'>Conheça todos os cursos</p>

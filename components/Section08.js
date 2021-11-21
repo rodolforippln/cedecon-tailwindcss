@@ -54,7 +54,7 @@ export default function Section08() {
 
             <div className='lg:flex lg:justify-center items-center my-auto px-8 md:px-16 mt-8'>
 
-                <div className='mr-2'>
+                <div className='mr-2 transform hover:scale-100 duration-200 hover:-translate-y-1 cursor-pointer'>
                     <Link href='#'>
                         <a className='text-2xl flex justify-center items-center rounded-md bg-blue-500 text-gray-100 px-6 py-2 hover:bg-blue-800 hover:text-gray-50'>
                         <p className='text-sm font-bold text-gray-50'>Matricule-se</p> 

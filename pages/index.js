@@ -8,6 +8,9 @@ import Serction03 from '../components/Section03'
 import Serction04 from '../components/Section04'
 import Serction05 from '../components/Section05'
 import Serction06 from '../components/Section06'
+import Serction07 from '../components/Section07'
+import Serction08 from '../components/Section08'
+import Footer from '../components/Footer'
 
 export default function TestePage() {
   return (
@@ -26,6 +29,10 @@ export default function TestePage() {
       <Serction04 />
       <Serction05 />
       <Serction06 />
+      <Serction07 />
+      <Serction08 />
+      <Footer />
+
 
     </div>
   )

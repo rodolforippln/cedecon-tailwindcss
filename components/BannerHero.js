@@ -29,9 +29,7 @@ export default function BannerHero() {
                             </a>
                         </Link>
                     </div>
-                </div>                
-
-
+                </div> 
                 
             </div>
         </div>

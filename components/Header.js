@@ -21,7 +21,7 @@ function Header() {
 
     <div className='lg:flex lg:justify-center items-center my-auto px-8 md:px-16'>
 
-        <h2 className='text-2xl font-bold'>Menu</h2> TailwindCSS       
+        <h2 className='text-2xl font-bold'>Menu</h2>
 
     </div>
 </div>

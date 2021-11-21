@@ -36,7 +36,7 @@ export default function Section02() {
             </div>
         </div>
 
-        <div className='lg:flex lg:items-center'>
+        <div className='lg:flex lg:items-center px-8'>
             <div className='flex flex-col py-8 sm:pl-8 sm:pr-16 justify-center md:mx-auto border border-solid'>
                 <Image
                     width={511}
